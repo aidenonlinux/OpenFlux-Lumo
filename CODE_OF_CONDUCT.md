@@ -1,4 +1,4 @@
-## Contributor PureDarwin Code of Conduct
+## Contributor OpenFLux Lumo Code of Conduct
 
 ### Our Pledge
 
