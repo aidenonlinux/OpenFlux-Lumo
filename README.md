@@ -1,33 +1,38 @@
-## OpenFlux *Lumo*
-A OS based on PureDarwin.
+## OpenFlux Lumo
+OpenFlux Lumo is an open‑source operating system based on PureDarwin.
+Its goal is to be a lightweight, minimal, and experimental Darwin‑based OS.
 
-## About Lumo
-Lumo is a operating system based on PureDarwin. I dont have anything much to say about it.
-It's based on the latest darwin release i think.
+## 🌙 About Lumo
+Lumo builds on the PureDarwin foundation and uses components from the latest available Darwin releases.
+The project is still in an early stage, but it aims to become a clean and modern Darwin distribution.
+OpenFlux Lumo 1.0 is the first official release direction.
 
-## Credits:
-Credits to the original creators:
-* InSaneDarwin
-* ethansherriff
-* Ferdinand
-* probonopd
-* Samuel Zormeister (samuelzormeister)
-* Stuart Crook (scj)
-* Tyson Key (vmlemon)
-(their GitHub names)
+## 🙌 Credits
+Huge thanks to the original PureDarwin contributors:
+InSaneDarwin
+ethansherriff
+Ferdinand
+probonopd
+Samuel Zormeister (samuelzormeister)
+Stuart Crook (scj)
+Tyson Key (vmlemon)
+Their work made this project possible.
 
-## Building OpenFlux Lumo
-yes. you need to build it bcuz im half asleep as im writing this (maybe im gonna build it one day). and i am lazy.
+## 🔧 Building OpenFlux Lumo
+For now, OpenFlux Lumo must be built manually. 
+Because im lazy. (i even let AI make this readme)
+The build process is the same as PureDarwin.
+Requirements
+macOS (the project only builds on macOS)
+Xcode 14 or newer
+OpenSSL (used by xar and ld64)
+zlib (required for the DTrace CTF tools used in kernel building)
+Build Instructions
+(Actual build steps will be added later.)
 
-To build , you will need OpenSSL installed, which is used by xar and ld64.
-PureDarwin builds only on macOS. (heheheha) It is currently tested with Xcode 14, but should work
-with any other modern Xcode.
+## 👤 About the Creator
+Hi! I’m Aiden Groenewald, an 11‑year‑old Dutch developer.
+I use Ubuntu btw.
+Thanks for checking out or using OpenFlux Lumo.
 
-You will also need zlib, which is used by the DTrace CTF tools used in building the kernel.
-
-## About the creator
-Hi! Im Aiden Groenewald. A Dutch developer that is 11 years old. I use Ubuntu btw. Thanks for using OpenFlux Lumo.
-
-
-
-#Aiden Groenewald (akalord)
+— Aiden Groenewald (akalord)
