@@ -1,17 +1,32 @@
-# PureDarwin   [![PureDarwin Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/9kz8XXRRcT?style=flat)](https://discord.gg/9kz8XXRRcT)
+## OpenFlux *Lumo*
+A OS based on PureDarwin.
 
-![logo-sm](https://github.com/user-attachments/assets/ea4bd560-3738-4486-80ab-2f313e4a33a1)
+## About Lumo
+Lumo is a operating system based on PureDarwin. I dont have anything much to say about it.
+It's based on the latest darwin release i think.
 
-Darwin is the Open Source operating system from Apple that forms the basis for Mac OS X and PureDarwin. PureDarwin is a community project that aims to make Darwin more usable (some people think of it as the informal successor to OpenDarwin).
+## Credits:
+Credits to the original creators:
+* InSaneDarwin
+* ethansherriff
+* Ferdinand
+* probonopd
+* Samuel Zormeister (samuelzormeister)
+* Stuart Crook (scj)
+* Tyson Key (vmlemon)
 
-One current goal of this project is to provide a useful bootable ISO/VM of some recent version of Darwin.
+## Building OpenFlux Lumo
+yes. you need to build it bcuz im half asleep as im writing this (maybe im gonna build it one day). and i am lazy.
 
-See the [Website](https://www.puredarwin.org) for more information.
-
-## Building PureDarwin
-
-To build PureDarwin, you will need OpenSSL installed, which is used by xar and ld64.
-PureDarwin builds only on macOS. It is currently tested with Xcode 14, but should work
+To build , you will need OpenSSL installed, which is used by xar and ld64.
+PureDarwin builds only on macOS. (heheheha) It is currently tested with Xcode 14, but should work
 with any other modern Xcode.
 
 You will also need zlib, which is used by the DTrace CTF tools used in building the kernel.
+
+## About the creator
+Hi! Im Aiden Groenewald. A Dutch developer that is 11 years old. I use Ubuntu btw. Thanks for using OpenFlux Lumo.
+
+
+
+#Aiden Groenewald (akalord)
