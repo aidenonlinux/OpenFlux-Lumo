@@ -1,12 +1,12 @@
 if(CMAKE_GENERATOR STREQUAL "Xcode")
-    message(FATAL_ERROR "PureDarwin cannot be compiled with Xcode.")
+    message(FATAL_ERROR "OFL cannot be compiled with Xcode.")
 endif()
 
 cmake_minimum_required(VERSION 3.15.1)
-project(PUREDARWIN)
+project(OpenFluxLumo)
 
 if((NOT CMAKE_C_COMPILER_ID MATCHES "AppleClang") AND (NOT CMAKE_C_COMPILER_ID MATCHES "Clang"))
-    message(FATAL_ERROR "PureDarwin must be compiled with clang.")
+    message(FATAL_ERROR "OFL must be compiled with clang.")
 endif()
 
 cmake_policy(SET CMP0114 NEW)
