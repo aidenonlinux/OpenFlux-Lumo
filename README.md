@@ -14,6 +14,7 @@ Credits to the original creators:
 * Samuel Zormeister (samuelzormeister)
 * Stuart Crook (scj)
 * Tyson Key (vmlemon)
+(their GitHub names)
 
 ## Building OpenFlux Lumo
 yes. you need to build it bcuz im half asleep as im writing this (maybe im gonna build it one day). and i am lazy.
