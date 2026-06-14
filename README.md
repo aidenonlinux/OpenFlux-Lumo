@@ -9,13 +9,14 @@ OpenFlux Lumo 1.0 is the first official release direction.
 
 ## 🙌 Credits
 Huge thanks to the original PureDarwin contributors:
-InSaneDarwin
-ethansherriff
-Ferdinand
-probonopd
-Samuel Zormeister (samuelzormeister)
-Stuart Crook (scj)
-Tyson Key (vmlemon)
+* InSaneDarwin
+* ethansherriff
+* Ferdinand
+* probonopd
+* Samuel Zormeister (samuelzormeister)
+* Stuart Crook (scj)
+* Tyson Key (vmlemon)
+
 Their work made this project possible.
 
 ## 🔧 Building OpenFlux Lumo
