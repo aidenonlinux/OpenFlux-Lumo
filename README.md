@@ -1,3 +1,5 @@
+## NOTE: this is still under development.
+
 ## OpenFlux Lumo
 OpenFlux Lumo is an open‑source operating system based on PureDarwin.
 Its goal is to be a lightweight, minimal, and experimental Darwin‑based OS.
